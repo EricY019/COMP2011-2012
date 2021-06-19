@@ -1,0 +1,10 @@
+Node*** generateMap(int width, int height);
+bool addThing(Node*** map, int width, int height, int x, int y, Thing thing, int quantity);
+bool removeThing(Node*** map, int width, int height, int x, int y, Thing thing, int quantity);
+int getLinkedListLength(const Node* head);
+bool moveHero(char move, Node*** map, int width, int height, HeroStatus& heroStatus);
+int getMonsterCount(Node*** map, int width, int height);
+void printHeroStatus(const HeroStatus &heroStatus);
+void printMonsterCount(Node*** map, int width, int height);
+void deleteLinkedList(Node*& head);
+void deleteMap(Node*** map, int width, int height);
