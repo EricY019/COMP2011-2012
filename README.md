@@ -1,2 +1,2 @@
-# HKUST
-Source codes of courses in HKUST. Currently includes assignments.
+# HKUST-COMP2011-2012
+Source codes of COMP2011-2012. Currently includes assignments.
