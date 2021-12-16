@@ -1,4 +1,3 @@
-# COMP2011-2012
 Source codes of HKUST COMP2011-2012. Includes programming assignments.
 # COMP2011
 1. Function
@@ -9,5 +8,3 @@ Source codes of HKUST COMP2011-2012. Includes programming assignments.
 2. Inheritance, Polymmorphism
 3. Generic Programming
 4. Binary Search Tree
-# Disclamier
-This repository must not be used for academic plagiraism.
